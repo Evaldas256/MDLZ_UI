@@ -1,0 +1,12 @@
+{
+    "production_steps": [
+        {
+            "name": "Virimas",
+            "color": "#ffff7f"
+        },
+        {
+            "name": "Plovimas",
+            "color": "#ffaaff"
+        }
+    ]
+}
